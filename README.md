@@ -16,6 +16,16 @@ Click on the tiles and click on another empty tile to match, if the match fails,
 
 <img
   src="https://github.com/JustenMX/magic-memory/blob/main/public/sc2.png"
-  alt="Start New Game"
-  title="Start New Game"
+  alt="matchtiles"
+  title="matchtiles"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+Upon a succesful match, the tiles will appear as shown below
+
+<img
+  src="https://github.com/JustenMX/magic-memory/blob/main/public/sc3.png"
+  alt="matchtiles"
+  title="matchtiles"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+Enjoy the game!
